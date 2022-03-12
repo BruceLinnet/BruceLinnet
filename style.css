@@ -104,19 +104,6 @@ h3{
   grid-column-end: 2;
 
 }
-
-button{
-    margin-top: 0px;
-    
-    text-align: left;
-    /*font-family: 'Courier New', Courier, monospace;*/
-    font-size: 1rem;
-    font-weight: bold;
-    cursor: pointer;
-    font-family: 'Karla', sans-serif;
-}
-
-
 p{
 
   text-align: center;
@@ -124,7 +111,7 @@ p{
 }
 
 .case-img{
-  width: 40vw;
+  width: 80vw;
 }
   
 .case-img a {
