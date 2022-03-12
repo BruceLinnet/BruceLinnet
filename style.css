@@ -18,7 +18,7 @@ header{
 #logo{
   grid-column-start: 1;
   grid-column-end: 2;
-  width: ;
+  width: 50vw;
   font-family: 'Karla', sans-serif;
   font-size: 1.2rem;
   
