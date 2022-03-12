@@ -8,7 +8,6 @@ header{
     grid-column-end: 2;
     display: grid;
     grid-template-columns: auto auto;  
-    grid-template-rows: auto auto;   
     background-color: white;
     position: fixed; 
     top: 0; 
@@ -19,8 +18,6 @@ header{
 #logo{
   grid-column-start: 1;
   grid-column-end: 2;
-  grid-row-start: 1;
-  grid-row-end: 2;
   width: ;
   font-family: 'Karla', sans-serif;
   font-size: 1.2rem;
@@ -31,13 +28,10 @@ header{
 nav{
   grid-column-start: 2;
   grid-column-end: 3;
-  grid-row-start: 1;
-  grid-row-end: 2;
   display: grid;
   grid-template-columns: auto;  
   grid-template-rows: auto auto;  
   text-align: right;
- 
 }
 
 nav a{
