@@ -1,16 +1,11 @@
-body{
-   /* background-color: rgb(255, 215, 0, 0.9);*/
-}
+
 #container{
     display: grid;
     grid-template-columns: auto;
-    grid-template-rows: ;
-
 }
 header{
     grid-column-start: 1;
     grid-column-end: 2;
-  
     display: grid;
     grid-template-columns: auto auto auto;  
     grid-template-rows: auto auto;   
