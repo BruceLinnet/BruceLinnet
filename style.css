@@ -92,9 +92,9 @@ h3{
   grid-column-end: 2;
   display: grid;
   grid-template-columns: auto;
-  grid-row-gap: 5vh;
+  grid-row-gap: 6vh;
   margin-top: 15vh;
-  padding: 0vh 2vw 0vh 2vw;
+  padding: 0vh 0vw 0vh 0vw;
 }
 
 p{
@@ -115,16 +115,7 @@ p{
 a{
   text-decoration: none;
 }
-.section{
-  grid-column-start: 1;
-  grid-column-end: 2;
-  display: grid;
-  grid-template-columns: auto;
-  margin-top: 10vh;
- 
-  padding: 3vh 8vw 0vh 8vw;
-  background-color: ;
-}
+
 
 @media only screen and (min-width: 768px) {
    #container{
