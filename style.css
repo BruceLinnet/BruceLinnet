@@ -18,11 +18,9 @@ header{
 #logo{
   grid-column-start: 1;
   grid-column-end: 2;
-  width: 50vw;
+  width: 40vw;
   font-family: 'Karla', sans-serif;
-  font-size: 1.2rem;
-  
- 
+  font-size: 1.2rem; 
 }
 
 nav{
@@ -35,12 +33,9 @@ nav{
 }
 
 nav a{
-  font-family: 'Helvetica';
-  font-size: 0.9rem;
   color: #5b8006;
   font-family: 'Karla', sans-serif;
   font-size: 1.3rem;
-   
   text-decoration: none;
   color: black;
  
