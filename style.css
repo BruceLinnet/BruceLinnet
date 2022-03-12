@@ -32,8 +32,11 @@ nav{
   grid-column-end: 4;
   grid-row-start: 1;
   grid-row-end: 2;
+  display: grid;
+  grid-template-columns: auto;  
+  grid-template-rows: auto auto;   
   text-align: right;
-  padding: 0vh 6vw 0vh 6vw;
+  padding: 0vh 0vw 0vh 0vw;
 
  
 }
@@ -47,7 +50,7 @@ nav a{
   
   text-decoration: none;
   color: black;
-  margin-left: 3vw;
+ 
 }
 a:hover {
   font-weight: bold;
