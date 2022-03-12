@@ -10,9 +10,9 @@ header{
     grid-template-columns: auto auto auto;  
     grid-template-rows: auto auto;   
     background-color: white;
-    position: fixed; /* Set the navbar to fixed position */
-    top: 0; /* Position the navbar at the top of the page */
-    width: 100%; /* Full width */
+    position: fixed; 
+    top: 0; 
+    width: 100%; 
 }
 #logo{
   grid-column-start: 1;
@@ -93,8 +93,8 @@ h3{
   display: grid;
   grid-template-columns: auto;
   grid-row-gap: 5vh;
-  margin-top: 10vh;
-  padding: 0vh 8vw 0vh 8vw;
+  margin-top: 15vh;
+  padding: 0vh 5vw 0vh 5vw;
 }
 
 .case-btn{
@@ -111,7 +111,7 @@ p{
 }
 
 .case-img{
-  width: 80vw;
+  width: 90vw;
 }
   
 .case-img a {
