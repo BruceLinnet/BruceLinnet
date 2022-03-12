@@ -33,6 +33,8 @@ nav{
   grid-row-start: 1;
   grid-row-end: 2;
   text-align: right;
+  padding: 0vh 2vw 0vh 2vw;
+
  
 }
 
