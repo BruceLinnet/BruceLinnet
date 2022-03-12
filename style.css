@@ -36,7 +36,7 @@ nav{
   display: grid;
   grid-template-columns: auto;  
   grid-template-rows: auto auto;   
-  text-align: right;
+ 
 }
 
 nav a{
@@ -45,7 +45,7 @@ nav a{
   color: #5b8006;
   font-family: 'Karla', sans-serif;
   font-size: 1.3rem;
-  
+   text-align: right;
   text-decoration: none;
   color: black;
  
