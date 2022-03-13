@@ -35,9 +35,11 @@ nav{
 nav a{
   color: #5b8006;
   font-family: 'Karla', sans-serif;
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   text-decoration: none;
   color: black;
+  padding: 2vh 2vw 2vh 2vw;
+
  
 }
 a:hover {
