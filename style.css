@@ -38,9 +38,8 @@ nav a{
   font-size: 1.2rem;
   text-decoration: none;
   color: black;
-  padding: 2vh 2vw 2vh 2vw;
-
- 
+  padding: 0;
+  margin-left: 3vw; 
 }
 a:hover {
   font-weight: bold;
