@@ -124,58 +124,17 @@ a{
 header{
     grid-column-start: 1;
     grid-column-end: 6;
-  
-    display: grid;
-    grid-template-columns: auto auto auto;  
-    grid-template-rows: auto auto;   
-    background-color: white;
-    position: fixed; /* Set the navbar to fixed position */
-    top: 0; /* Position the navbar at the top of the page */
-    width: 100%; /* Full width */
 }
 #logo{
-  grid-column-start: 1;
-  grid-column-end: 5;
-  grid-row-start: 1;
-  grid-row-end: 2;
  
-  font-family: 'Karla', sans-serif;
-  font-size: 2rem;
-  padding: 2vh 10vw 2vh 10vw;
 }
 
 nav{
-  grid-column-start: 5;
-  grid-column-end: 6;
-  grid-row-start: 1;
-  grid-row-end: 2;
-  text-align: right;
-  padding: 2vh 10vw 2vh 10vw;
-}
 
-#logo-img{
-  grid-column-start: 1;
-  grid-column-end: 6;
-  grid-row-start: 2;
-  grid-row-end: 3;
-  padding: 0rem;
-  
-  background-image: url('./ericsjowallselfie.jpg');
-  background-position: center; /* Center the image */
-  background-repeat: no-repeat; /* Do not repeat the image */
-  background-size: cover;
 }
 
 nav a{
-  font-family: 'Helvetica';
-  font-size: 0.9rem;
-  color: #5b8006;
-  font-family: 'Karla', sans-serif;
-  font-size: 1.5rem;
-  
-  text-decoration: none;
-  color: black;
-  margin-left: 3vw;
+ 
 }
 a:hover {
   font-weight: bold;
